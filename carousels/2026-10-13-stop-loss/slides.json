@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "topic": "Stop-loss kyun zaroori hai",
+    "series": "Trading Basics",
+    "handle": "@handle",
+    "trading": true,
+    "mark": "chart",
+    "fonts": {
+      "display": "Sora",
+      "display_weight": 800,
+      "body": "Inter",
+      "mono": "JetBrains Mono"
+    },
+    "theme": {
+      "bg": "#0D1B1E",
+      "surface": "#1A2F33",
+      "text": "#F0FDFD",
+      "text2": "#B0C4C6",
+      "muted": "#4A6568",
+      "accent": "#00FFB2",
+      "on_accent": "#0D1B1E",
+      "ok": "#22C55E",
+      "bad": "#EF4444"
+    }
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "kicker": "Trading Basics",
+      "title": "Portfolio zero hone se\\n*bachao*",
+      "lead": "Stop-loss: Trading ka sabse bada insurance."
+    },
+    {
+      "layout": "points",
+      "kicker": "01 \u00b7 The Problem",
+      "title": "Ek galti aur account khali",
+      "lead": "Hope trading is dangerous.",
+      "bullets": [
+        "Hope trading karna (Price aayega wapas)",
+        "No exit plan",
+        "Emotions over logic",
+        "Heavy position sizing"
+      ],
+      "takeaway": "Hope is not a strategy."
+    },
+    {
+      "layout": "points",
+      "kicker": "02 \u00b7 What is it?",
+      "title": "Stop-loss actually hai kya?",
+      "lead": "Your safety net.",
+      "bullets": [
+        "Ek pre-defined price level",
+        "Jaha trade automatically close ho jaye",
+        "Loss ko limit karne ka tool",
+        "Discipline ka physical form"
+      ],
+      "takeaway": "Limit your downside."
+    },
+    {
+      "layout": "steps",
+      "kicker": "03 \u00b7 How it works",
+      "title": "Setup kaise karein?",
+      "lead": "4 simple steps.",
+      "steps": [
+        {
+          "label": "Entry",
+          "text": "Entry price set karo"
+        },
+        {
+          "label": "Risk",
+          "text": "Risk amount decide karo (e.g. 1%)"
+        },
+        {
+          "label": "Price",
+          "text": "SL price calculate karo"
+        },
+        {
+          "label": "Order",
+          "text": "System me order place karo"
+        }
+      ],
+      "takeaway": "Automate your exit."
+    },
+    {
+      "layout": "compare",
+      "kicker": "04 \u00b7 Real Diff",
+      "title": "SL vs No SL",
+      "lead": "The math of survival.",
+      "comparison": [
+        {
+          "item": "No SL",
+          "detail": "20% loss $\rightarrow$ recovery mushkil",
+          "status": "bad"
+        },
+        {
+          "item": "With SL",
+          "detail": "2% loss $\rightarrow$ easy recovery",
+          "status": "ok"
+        }
+      ],
+      "takeaway": "Small losses = Long term survival."
+    },
+    {
+      "layout": "points",
+      "kicker": "05 \u00b7 Galtiyan",
+      "title": "SL lagakar bhi loss kyun?",
+      "lead": "Common pitfalls.",
+      "bullets": [
+        "SL ko baar-baar move karna",
+        "Too tight SL (Noise me hit ho gaya)",
+        "Logic ke bina SL place karna",
+        "Panic me SL hata dena"
+      ],
+      "takeaway": "Set it and forget it."
+    },
+    {
+      "layout": "checklist",
+      "kicker": "06 \u00b7 Risk Rules",
+      "title": "Golden Rules for SL",
+      "lead": "Must follow.",
+      "checklist": [
+        "1-2% max risk per trade",
+        "SL based on structure, not money",
+        "Entry se pehle SL pata hona chahiye",
+        "No revenge trading"
+      ],
+      "takeaway": "Risk mgmt > Profit targets."
+    },
+    {
+      "layout": "cta",
+      "kicker": "07 \u00b7 Final Word",
+      "title": "Save karo aur Seekho",
+      "lead": "Discipline is the only edge.",
+      "actions": [
+        "Follow for more AI/Trading",
+        "Save this for next trade",
+        "Share with a trading buddy"
+      ],
+      "disclaimer": "Educational only, not investment advice."
+    }
+  ]
+}
